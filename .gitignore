@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+*.log
+sensors.db
+venv/
+simulator/__pycache__/
+frontend/dist/
+frontend/.eslintcache
